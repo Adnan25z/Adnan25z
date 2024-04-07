@@ -12,13 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adnan25z&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan25z&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🐍 My Contributions 🐍
-![snake gif](https://github.com/Adnan25z/Adnan25z/blob/output/github-contribution-grid-snake.svg)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Adnan25z&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+# 🐍 My Contributions 🐍
+![snake gif](https://github.com/Adnan25z/Adnan25z/blob/output/github-contribution-grid-snake.svg)
 
 ---

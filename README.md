@@ -1,12 +1,10 @@
 # 💫 About Me:
 👋 Hi, I'm Adnan Zafar—driven by curiosity and the endless potential of code to solve complex problems. My toolbox includes .NET, Java, C#, JavaScript, Python, and a knack for cloud solutions with Azure and AWS. Based in Melbourne, I'm currently delving into .NET Core and Angular, aiming to build secure, scalable applications. I also enjoy solving Data Structures in Java and use Swing to create Desktop Applications.<br><br>🔍 Explore my projects that range from web development to machine learning at my portfolio (http://adnanzafar.me/portfolio). I'm all about clean code, agile development, and continuous learning.<br><br>💡 Open to collaborate on innovative projects or talk tech. Let's connect!<br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan2510)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Adnan25z/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adnanzafar2001@gmail.com) <br><br>
-
 
 # 💻 Skills and Technologies:
 ### Programming Languages and Frameworks
@@ -95,31 +93,24 @@
 <br><br>
 
 # 📊 GitHub Stats
-
-<div align="center">
-  
+<div align="center">  
   <!-- GitHub Readme Stats -->
   <a href="https://github.com/Adnan25z">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adnan25z&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  
+  </a>  
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Adnan25z">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnan25z&theme=dark&hide_border=true" />
   </a>
-  
   <!-- GitHub Top Languages -->
   <a href="https://github.com/Adnan25z">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan25z&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
-  
   <!-- GitHub Contributor Stats -->
   <a href="https://github.com/Adnan25z">
     <img src="https://github-contributor-stats.vercel.app/api?username=Adnan25z&limit=5&theme=dark&hide_border=truek&combine_all_yearly_contributions=true" />
   </a>
-  
 </div>
-
 
 # 🐍 My Contributions 🐍
 ![snake gif](https://github.com/Adnan25z/Adnan25z/blob/output/github-contribution-grid-snake.svg)

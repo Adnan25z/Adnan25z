@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan2510)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Adnan25z/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adnanzafar2001@gmail.com.com) <br><br>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adnanzafar2001@gmail.com) <br><br>
 
 
 # 💻 Skills and Technologies:

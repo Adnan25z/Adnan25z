@@ -112,7 +112,7 @@
   </a>
 </div>
 
-# 🐍 My Contributions 🐍
+# My Contributions
 ![snake gif](https://github.com/Adnan25z/Adnan25z/blob/output/github-contribution-grid-snake.svg)
 
 ---

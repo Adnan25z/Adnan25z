@@ -106,10 +106,6 @@
   <a href="https://github.com/Adnan25z">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan25z&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
-  <!-- GitHub Contributor Stats -->
-  <a href="https://github.com/Adnan25z">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Adnan25z&limit=5&theme=dark&hide_border=truek&combine_all_yearly_contributions=true" />
-  </a>
 </div>
 
 # My Contributions

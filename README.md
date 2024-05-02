@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm Adnan Zafar—driven by curiosity and the endless potential of code to solve complex problems. My toolbox includes .NET, Java, C#, JavaScript, Python, and a knack for cloud solutions with Azure and AWS. Based in Melbourne, I'm currently delving into .NET Core and Angular, aiming to build secure, scalable applications. I also enjoy solving Data Structures in Java and use Swing to create Desktop Applications.<br><br>🔍 Explore my projects that range from web development to machine learning at my <a href="http://adnanzafar.me/portfolio">portfolio</a>. I'm all about clean code, agile development, and continuous learning.<br><br>💡 Open to collaborate on innovative projects or talk tech. Let's connect!<br><br>
 
 ## 🌐 Socials:

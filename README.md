@@ -9,88 +9,105 @@
 # 💻 Skills and Technologies:
 ### Programming Languages and Frameworks
 #### General Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://skillicons.dev/icons?i=cs)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Go](https://skillicons.dev/icons?i=go)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Perl](https://skillicons.dev/icons?i=perl)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
+![Ruby](https://skillicons.dev/icons?i=ruby)
+![Rust](https://skillicons.dev/icons?i=rust)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
 #### Frontend Technologies
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![CSS3](https://skillicons.dev/icons?i=css)
+![HTML5](https://skillicons.dev/icons?i=html)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![React](https://skillicons.dev/icons?i=react)
+![Vue.js](https://skillicons.dev/icons?i=vue)
+![Next JS](https://skillicons.dev/icons?i=nextjs)
+
 #### Backend Technologies
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![.Net](https://skillicons.dev/icons?i=dotnet)
+![Django](https://skillicons.dev/icons?i=django)
+![DjangoREST](https://skillicons.dev/icons?i=django)
+![Express.js](https://skillicons.dev/icons?i=express)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Spring](https://skillicons.dev/icons?i=spring)
+
 #### Mobile Development
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+
 #### Web Development Utilities
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-<br>
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Webpack](https://skillicons.dev/icons?i=webpack)
+
 ### Cloud Services and DevOps
 #### Cloud Providers
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
 #### DevOps and CI/CD
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-<br>
+![Docker](https://skillicons.dev/icons?i=docker)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![GitHub Pages](https://skillicons.dev/icons?i=github)
+
 ### Databases
 #### SQL Databases
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<span style="display: inline-block; background: #003545; padding: 4px; border-radius: 8px;">
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="48" height="48" style="vertical-align: middle;"/>
+</span>
+<span style="display: inline-block; background: #CC2927; padding: 4px; border-radius: 8px;">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MicrosoftSQLServer" width="48" height="48" style="vertical-align: middle;"/>
+</span>
+<span style="display: inline-block; background: #f1f1f1; padding: 4px; border-radius: 8px;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" style="vertical-align: middle;"/>
+</span>
+<span style="display: inline-block; background: #f1f1f1; padding: 4px; border-radius: 8px;">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="48" height="48" style="vertical-align: middle;"/>
+</span>
+<span style="display: inline-block; background: #f1f1f1; padding: 4px; border-radius: 8px;">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" style="vertical-align: middle;"/>
+</span>
+
 #### NoSQL Databases
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
+![AmazonDynamoDB](https://skillicons.dev/icons?i=dynamodb)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
 ### Package Managers and Build Tools
 #### Package Managers
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-<br>
+![NPM](https://skillicons.dev/icons?i=npm)
+![Yarn](https://skillicons.dev/icons?i=yarn)
+
 #### Build Tools and CI/CD
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-<br>
+![Apache Maven](https://skillicons.dev/icons?i=maven)
+![Webpack](https://skillicons.dev/icons?i=webpack)
+
 ### Miscellaneous Technologies
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-<br><br>
+
+![Anaconda](https://skillicons.dev/icons?i=anaconda)
+![Blender](https://skillicons.dev/icons?i=blender)
+<span style="display: inline-block; background: #000000; padding: 10px; border-radius: 8px; margin: 5px;">
+  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/>
+</span>
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+<span style="display: inline-block; background: #0079BF; padding: 10px; border-radius: 70px; margin: 5px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="48" height="48"/>
+</span>
+
 
 # 📊 GitHub Stats
 <div align="center">  

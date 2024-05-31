@@ -35,7 +35,6 @@
 #### Backend Technologies
 ![.Net](https://skillicons.dev/icons?i=dotnet)
 ![Django](https://skillicons.dev/icons?i=django)
-![DjangoREST](https://skillicons.dev/icons?i=django)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Laravel](https://skillicons.dev/icons?i=laravel)

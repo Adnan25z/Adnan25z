@@ -1,12 +1,16 @@
 # About Me:
-👋 Hi, I'm Adnan Zafar—driven by curiosity and the endless potential of code to solve complex problems. My toolbox includes .NET, Java, C#, JavaScript, Python, and a knack for cloud solutions with Azure and AWS. Based in Melbourne, I'm currently delving into .NET Core and Angular, aiming to build secure, scalable applications. I also enjoy solving Data Structures in Java and use Swing to create Desktop Applications.<br><br>🔍 Explore my projects that range from web development to machine learning at my <a href="http://adnanzafar.me/portfolio">portfolio</a>. I'm all about clean code, agile development, and continuous learning.<br><br>💡 Open to collaborate on innovative projects or talk tech. Let's connect!<br><br>
+Hi, I'm Adnan Zafar. I have a passion for coding and problem-solving. My skill set includes .NET, Java, C#, JavaScript, Python, and cloud solutions with Azure and AWS. Based in Melbourne, I'm currently working with .NET Core and Angular to build secure, scalable applications. I also enjoy solving data structures in Java and creating desktop applications with Swing.
 
-## 🌐 Socials:
+Explore my projects, which range from web development to machine learning, on my portfolio. I value clean code, agile development, and continuous learning.
+
+I'm open to collaborating on innovative projects or discussing tech. Let's connect!
+
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan2510)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Adnan25z/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adnanzafar2001@gmail.com) <br><br>
 
-# 💻 Skills and Technologies:
+# Skills and Technologies:
 ### Programming Languages and Frameworks
 #### General Programming Languages
 ![C#](https://skillicons.dev/icons?i=cs)
@@ -105,10 +109,10 @@
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 <span style="display: inline-block; background: #0079BF; padding: 10px; border-radius: 70px; margin: 5px;">
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="48" height="48"/>
-</span>
+</span><br><br>
 
 
-# 📊 GitHub Stats
+# GitHub Stats
 <div align="center">  
   <!-- GitHub Readme Stats -->
   <a href="https://github.com/Adnan25z">

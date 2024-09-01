@@ -116,7 +116,7 @@ I'm open to collaborating on innovative projects or discussing tech. Let's conne
 <div align="center">  
   <!-- GitHub Readme Stats -->
   <a href="https://github.com/Adnan25z">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adnan25z&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adnan25z&theme=dark&hide_border=true" />
   </a>  
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Adnan25z">
